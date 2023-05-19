@@ -1,2 +1,8 @@
 pandas
 numpy
+ipykernel
+openpyxl
+nltk
+sklearn
+nlpaug
+gensim
